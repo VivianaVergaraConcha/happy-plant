@@ -1,0 +1,19 @@
+.content-category {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 2.5rem 13rem;
+}
+
+@media screen and (max-width: 1822px) {
+  .content-category {
+    margin: 2.5rem 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+}
+
+@media screen and (max-width: 767px) {
+}

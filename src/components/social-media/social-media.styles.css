@@ -1,0 +1,14 @@
+.social-media {
+    width: 50%;
+    display: flex;
+}
+
+.logo-social-media {
+    width: 30px;
+    margin: 5px;
+}
+
+.logo-twitter {
+    width: 30px;
+    margin: 5px 5px 5px 10px;
+}

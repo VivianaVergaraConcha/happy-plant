@@ -1,0 +1,21 @@
+.container-card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 2.5rem 13rem;
+}
+
+.title-plants{
+    margin-left: 13rem;
+}
+
+@media screen and (max-width: 1135px){
+    .container-card {
+        margin: 0;
+    }
+
+    .title-plants {
+        margin-left: 1rem;
+    }
+}

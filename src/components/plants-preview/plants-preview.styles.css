@@ -1,0 +1,23 @@
+.card {
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 330px;
+    margin: 15px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.name-plant{
+    font-weight: 500;
+    font-size: larger;
+}
+
+.type-plant{
+    color: #30B18B;
+    font-size: medium;
+    font-weight: 400;
+}

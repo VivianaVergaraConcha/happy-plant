@@ -1,0 +1,34 @@
+.banner-content {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.imagen-banner {
+  width: 100%;
+  margin: 0px;
+}
+
+@media screen and (min-width: 1024px) {
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .imagen-banner {
+    width: 146%;
+    margin: 0px -210px;
+  }
+}
+
+@media screen and (max-width: 894px) {
+  .imagen-banner {
+    width: 135%;
+    margin: 0px -113px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .imagen-banner {
+    width: 150%;
+    margin: 0px -113px;
+  }
+}

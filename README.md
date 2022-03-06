@@ -21,3 +21,7 @@ Automatically restarts when any of your files change.
 ![PlantPage](./public/img/PlantPage.JPG)
 
 **Note: Mockups may look different than the final project**
+
+##Credit
+All photographs are from [@feeypflanzen](https://unsplash.com/@feeypflanzen).
+

@@ -1,0 +1,28 @@
+.category-item{
+    display: flex;
+    border: 0;
+    border-radius: 0.25rem;
+    box-shadow: 7px 6px 10px 1px rgb(0 0 0 / 14%);
+    width: 450px;
+    margin-top: 12rem;
+}
+
+.content-category img {
+    width: 60%;
+    margin-top: -43%;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.text span {
+    font-size: xx-large;
+}
+
+.link-item {
+    color: #FECA74;
+}
